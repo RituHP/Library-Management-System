@@ -1,0 +1,19 @@
+.list-group-item{
+    margin: 2rem;
+        margin: 20px;
+        border-radius: 5px;
+}
+
+.list-group{
+    margin: 1rem;
+}
+
+
+.table {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.alert{
+  display: none;
+}
